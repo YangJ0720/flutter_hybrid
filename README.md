@@ -1,0 +1,3 @@
+# flutter_hybrid
+
+Flutter与Android Native交互，实现BasicMessageChannel、MethodChannel和EventChannel通信
